@@ -26,4 +26,4 @@ The primary dataset used for this analysis was from Kaggle [Click here](https://
 
 ## Visualization
 
-![](Call_Center_Excel_Dashboard.png)
+![](call_center_Excel_dashboard.png)
