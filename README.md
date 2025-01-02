@@ -30,7 +30,7 @@ The dataset used for this analysis was from Kaggle [here](https://www.kaggle.com
 
 ## Recommendations
 
-- Most of the calls made had negative level of sentiment. Decrease Negative Sentiments by identifying and addressing common customer complaints and implementing targeted training for call center agents on handling challenging situations and improve response quality to enhance overall customer satisfaction
+- Most of the calls made had negative level of sentiment. Decrease Negative Sentiments by identifying and addressing common customer complaints and implementing targeted training for call center agents on handling challenging situations and improve response quality to enhance overall customer satisfaction 🙂
 - Improve Response Times by reducing below SLA calls by increasing staffing during peak hours
 - Analyze Billing Queries by implementing an automated billing FAQ chatbot
 - Leverage Chatbots and Web Channels by increasing their usage to handle routine queries
